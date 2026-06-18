@@ -1,0 +1,51 @@
+question,expected_topic
+What is a market order?,market_orders
+When should a market order be used?,market_orders
+Can the price of a market order change?,market_orders
+What is a limit order?,limit_orders
+Why did my limit order not execute?,limit_orders
+How is a limit order different from a market order?,limit_orders
+What is a stop order?,stop_orders
+What is a stop price?,stop_orders
+What is the bid price?,bid_ask_spread
+What is the ask price?,bid_ask_spread
+What is the bid-ask spread?,bid_ask_spread
+Why does the bid-ask spread matter?,bid_ask_spread
+What is trade settlement?,settlement
+What does T+1 settlement mean?,settlement
+What happens after a stock trade is completed?,settlement
+What is margin trading?,margin
+What is a margin call?,margin
+Why is buying on margin risky?,margin
+What is a trading halt?,trading_halts
+Why would trading in a stock be halted?,trading_halts
+Can I trade during a halt?,trading_halts
+What is order execution?,order_execution
+Why was my order placed but not completed?,order_execution
+Does placing an order guarantee execution?,order_execution
+Can you explain a market order?,market_orders
+When should a market order be used?,market_orders
+Can the price of a market order change?,market_orders
+Can you explain a limit order?,limit_orders
+Can you explain why did my limit order not execute?,limit_orders
+How is a limit order different from a market order?,limit_orders
+Can you explain a stop order?,stop_orders
+Can you explain a stop price?,stop_orders
+Can you explain the bid price?,bid_ask_spread
+Can you explain the ask price?,bid_ask_spread
+Can you explain the bid-ask spread?,bid_ask_spread
+Can you explain why does the bid-ask spread matter?,bid_ask_spread
+Can you explain trade settlement?,settlement
+What does T+1 settlement mean?,settlement
+What happens after a stock trade is completed?,settlement
+Can you explain margin trading?,margin
+Can you explain a margin call?,margin
+Can you explain why is buying on margin risky?,margin
+Can you explain a trading halt?,trading_halts
+Can you explain why would trading in a stock be halted?,trading_halts
+Can I trade during a halt?,trading_halts
+Can you explain order execution?,order_execution
+Can you explain why was my order placed but not completed?,order_execution
+Does placing an order guarantee execution?,order_execution
+Can you explain a market order?,market_orders
+When should a market order be used?,market_orders
