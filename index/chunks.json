@@ -1,0 +1,65 @@
+[
+  {
+    "chunk_id": "bid_ask_spread-000",
+    "source": "bid_ask_spread.md",
+    "topic": "bid_ask_spread",
+    "title": "Bid, Ask, and Bid-Ask Spread",
+    "text": "The bid price is the highest price a buyer is willing to pay. The ask price is the lowest price a seller is willing to accept. The bid-ask spread is the difference between these prices and can affect the effective cost of a trade."
+  },
+  {
+    "chunk_id": "glossary-000",
+    "source": "glossary.md",
+    "topic": "glossary",
+    "title": "Retail Trading Glossary",
+    "text": "Market Order: Buy or sell immediately at the best available price. Limit Order: Buy or sell only at a specified price or better. Stop Order: Activates when a stop price is reached. Bid Price: Highest price a buyer is willing to pay. Ask Price: Lowest price a seller is willing to accept. Bid-Ask Spread: Difference between bid and ask prices. Settlement: Transfer of securities and funds after a trade. Margin: Borrowed money used to buy securities. Trading Halt: Temporary pause in trading."
+  },
+  {
+    "chunk_id": "limit_orders-000",
+    "source": "limit_orders.md",
+    "topic": "limit_orders",
+    "title": "Limit Orders",
+    "text": "A limit order is an instruction to buy or sell a security only at a specified price or better. A buy limit sets the maximum price an investor is willing to pay, while a sell limit sets the minimum price an investor is willing to accept. Limit orders provide price control but do not guarantee execution."
+  },
+  {
+    "chunk_id": "margin-000",
+    "source": "margin.md",
+    "topic": "margin",
+    "title": "Margin Trading",
+    "text": "Margin trading allows investors to borrow money from a brokerage firm to buy securities. It can increase potential gains but also increases losses and may result in a margin call if account equity falls below required levels."
+  },
+  {
+    "chunk_id": "market_orders-000",
+    "source": "market_orders.md",
+    "topic": "market_orders",
+    "title": "Market Orders",
+    "text": "A market order is an instruction to buy or sell a security immediately at the best available current price. Market orders prioritize execution speed over exact price control. The final execution price may differ from the displayed price when the order was submitted, especially in volatile or low-liquidity markets."
+  },
+  {
+    "chunk_id": "order_execution-000",
+    "source": "order_execution.md",
+    "topic": "order_execution",
+    "title": "Order Execution",
+    "text": "Order execution is the process of completing a buy or sell order. Execution depends on order type, price, liquidity, timing, and market conditions. A placed order is not always a completed trade."
+  },
+  {
+    "chunk_id": "settlement-000",
+    "source": "settlement.md",
+    "topic": "settlement",
+    "title": "Trade Settlement",
+    "text": "Trade settlement is the process where securities and funds are officially transferred after a trade. In U.S. stock markets, standard settlement generally follows a T+1 cycle, meaning settlement occurs one business day after the trade date."
+  },
+  {
+    "chunk_id": "stop_orders-000",
+    "source": "stop_orders.md",
+    "topic": "stop_orders",
+    "title": "Stop Orders",
+    "text": "A stop order becomes active when a security reaches a specified stop price. Once triggered, the order may become a market order or limit order depending on the order type. Stop orders are commonly used to manage risk, but execution price can vary in fast markets."
+  },
+  {
+    "chunk_id": "trading_halts-000",
+    "source": "trading_halts.md",
+    "topic": "trading_halts",
+    "title": "Trading Halts",
+    "text": "A trading halt is a temporary pause in trading for a security. Halts may occur because of pending news, market volatility, regulatory concerns, or order imbalance. During a halt, investors generally cannot buy or sell the affected security."
+  }
+]

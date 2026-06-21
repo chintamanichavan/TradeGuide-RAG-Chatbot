@@ -15,3 +15,5 @@ python src/app.py
 ```
 
 This prototype can be extended with Sentence Transformers, FAISS, and a Hugging Face language model.
+# TradeGuide-RAG-Chatbot
+# TradeGuide-RAG-Chatbot
